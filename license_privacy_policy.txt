@@ -1,0 +1,93 @@
+AFT-Oregon QBO Connect – End-User License Agreement and Privacy Policy
+Last Updated: 02/2026
+
+1. Introduction
+Welcome to AFT-Oregon QBO Connect (“the App”), also referred to as aftor_test. This App integrates with Intuit’s QuickBooks Online (“QBO”) services to provide features such as connecting to Quickbooks for Task Management and Accounting. By installing, accessing, or otherwise using the App, you (“User”) agree to be bound by the terms and conditions of this End-User License Agreement (“EULA”) and the Privacy Policy (collectively “Agreement”). If you do not agree, you must not use this App.
+
+Note: This Agreement is solely between you and AFT-Oregon. Intuit, the provider of QuickBooks, is not a party to this Agreement.
+
+2. License Grant
+Limited License
+AFT-Oregon grants you a non-exclusive, non-transferable, revocable license to use the App solely for AFT-Oregon internal business purposes and only in accordance with (a) this Agreement, and (b) all applicable laws.
+Restrictions
+You may not (a) distribute, sublicense, rent, lease, or loan the App to any third party, (b) reverse engineer, decompile, or disassemble any part of the App except as permitted by law, (c) circumvent or disable any security or technological features of the App, (d) access the App if you are not an officer or employee of AFT-Oregon.
+QuickBooks Online Integration
+The App may use QuickBooks Online application programming interfaces (“APIs”) to access, retrieve, or modify data within your QBO account. You acknowledge that your use of QBO is subject to Intuit’s own Terms of Service and policies.
+AFT-Oregon is not responsible for QuickBooks Online, its availability, or its performance. You agree to comply with all Intuit developer requirements when using the App in conjunction with QBO.
+3. User Responsibilities
+Account Registration
+You must provide accurate, current, and complete information when registering or using the App. You are responsible for maintaining the confidentiality of your login credentials.
+Acceptable Use
+You agree not to use the App to upload or transmit any content that: (a) infringes any third-party rights, (b) contains viruses or malicious code, or (c) violates any law or regulation.
+Data Accuracy
+The App may assist with accounting or financial tasks, but you acknowledge that you remain responsible for verifying the accuracy and completeness of any data entered into or processed by the App or QBO.
+4. Privacy Policy
+This Privacy Policy describes how AFT-Oregon (“we,” “us,” or “our”) collects, uses, and discloses information when you use the App.
+
+4.1 Information We Collect
+User-Provided Information
+When you create an account or connect your QBO account, we may collect personal information such as your name, email address, billing information, and any other data you explicitly provide.
+QuickBooks Online Data
+When you connect your QuickBooks account, the App will have access to certain financial data, transaction details, invoices, or other accounting records stored in QBO, as authorized by you and permitted via Intuit’s API.
+Usage Data
+We may automatically collect information about how you access and use the App, including IP address, browser type, device details, and logs.
+4.2 How We Use Your Information
+To Provide and Maintain the App
+We use the collected information to authenticate you, to retrieve or post data to your QuickBooks Online account as instructed by you, and to provide requested functionalities.
+To Improve Our Services
+We analyze usage patterns and user feedback to enhance the performance, reliability, and features of the App.
+Communications
+We may send you emails or notifications regarding updates, security alerts, administrative messages, or information about new features.
+Legal Compliance
+We may access, preserve, or disclose your information if required to do so by law or if we believe such action is necessary to (a) comply with a legal obligation, (b) protect the rights, property, or safety of AFT-Oregon, our officers, staff, members, or others.
+4.3 How We Share Your Information
+Third-Party Service Providers
+We may share your data with vendors or hosting providers who assist us in operating the App, subject to confidentiality and security obligations.
+Business Transfers
+When AFT-Oregon officers and/or staff change, your information may be transferred as part of this, subject to any pre-existing commitments.
+Legal Requirements
+We may disclose your information if required to do so by law or in response to valid requests by public authorities (e.g., a court or a government agency).
+4.4 Data Security
+We implement reasonable administrative, technical, and physical safeguards to protect your information against unauthorized access or disclosure. However, no method of electronic storage or transmission is 100% secure, and we cannot guarantee absolute security.
+
+4.5 Data Retention
+We retain your data for as long as your account remains active or as needed to provide the App’s services. We may also retain certain information to comply with legal obligations or to resolve disputes.
+
+4.6 International Transfer
+If you access the App from outside the United States, your data may be transferred to and processed in a country different from your own, subject to appropriate safeguards.
+
+4.7 Your Choices and Rights
+You may access, modify, or delete certain personal information by logging into your account or contacting us at execvp@aft-oregon.org. If you request deletion, we may retain certain information for legal or legitimate business purposes.
+
+5. Fees and Payment
+There are no fees associated with using this app.
+
+6. Term and Termination
+Term
+This Agreement is effective upon your first use of the App and continues unless terminated.
+Termination
+AFT-Oregon may terminate this Agreement at any time if you violate any provision. You may discontinue use of the App at any time. Upon termination, you must cease all use of the App.
+7. Disclaimer of Warranties
+The App is provided “AS IS” and “AS AVAILABLE,” without warranties of any kind, whether express or implied, including warranties of merchantability, fitness for a particular purpose, non-infringement, or course of dealing. AFT-Oregon does not guarantee that the App will be error-free or uninterrupted.
+
+8. Limitation of Liability
+To the fullest extent permitted by law, AFT-Oregon and its affiliates are not liable for any indirect, incidental, special, consequential, or punitive damages, or any loss of profits or revenues, even if advised of the possibility of such damages.
+
+9. Indemnification
+You agree to indemnify and hold AFT-Oregon, its affiliates, officers, employees, and agents harmless from any claims, damages, losses, liabilities, and expenses arising out of or related to your use of the App, violation of this Agreement, or infringement of any intellectual property or other right of any person or entity.
+
+10. Governing Law and Dispute Resolution
+This Agreement is governed by the laws of the State of Oregon in the United States, without regard to conflict-of-law principles. Any dispute arising from or relating to this Agreement shall be resolved in the courts located in Oregon, and you consent to personal jurisdiction there.
+
+11. Changes to This Agreement
+We may update or revise this Agreement at our discretion. By continuing to use the App after such changes become effective, you agree to the revised Agreement.
+
+12. Contact Us
+If you have any questions about this Agreement or the App, please contact us at:
+Email: execvp@aft-oregon.org
+Address: 10228 SW Capitol Hwy, Portland, OR, 97219, USA
+
+13. Entire Agreement
+This Agreement constitutes the entire agreement between you and AFT-Oregon regarding the App, superseding any prior agreements between you and AFT-Oregon related to the subject matter herein.
+
+BY USING THIS APP, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTOOD, AND AGREE TO BE BOUND BY THIS AGREEMENT.
